@@ -1,0 +1,9 @@
+source,publisher,url,role,type
+SF Open Data Portal,DataSF,https://data.sf.gov/,Primary public-data portal,Official source
+Purchasing Commodity Data,DataSF,https://data.sf.gov/widgets/ebsh-uavg,Purchase-order/commodity transaction detail,Official source
+Vendor Payments (Vouchers),DataSF,https://data.sf.gov/w/n9pm-xkyq/ikek-yizv,Voucher-level payment source,Official source
+Supplier Contracts,DataSF,https://data.sf.gov/w/cqi5-hm2d/ikek-yizv,Contract context,Official source
+DataSF Developer Resources,DataSF,https://data.sf.gov/developers,SODA/API documentation,Official source
+SF Chapter 21 procurement rules,City and County of San Francisco,https://www.sf.gov/sites/default/files/2022-11/Chapter%2021%20-%20With%20Rules%20and%20Regs%20Incorporated%20%28Updated%2011-18-22%29.pdf,2022-era procurement framework reference,Official source
+OCP Red Flags in Public Procurement,Open Contracting Partnership,https://www.open-contracting.org/resources/red-flags-in-public-procurement-a-guide-to-using-data-to-detect-and-mitigate-risks/,Benchmark methodology,External reference
+OCP Cardinal,Open Contracting Partnership,https://www.open-contracting.org/2024/06/12/cardinal-an-open-source-library-to-calculate-public-procurement-red-flags/,Benchmark tooling,External reference
