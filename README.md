@@ -9,7 +9,8 @@
 [Study #001](case_study/CIIP_Public_Study_001_San_Francisco_Report.pdf) ·
 [Methodology](docs/01-methodology.md) ·
 [Indicator Library](methodology/CIIP_Indicator_Library_and_Evidence_Gate_v1_0.xlsx) ·
-[False-Positive Tests](tests/CIIP_SF001_False_Positive_Stress_Test_and_Launch_Gate_v1_0.xlsx)
+[False-Positive Tests](tests/CIIP_SF001_False_Positive_Stress_Test_and_Launch_Gate_v1_0.xlsx) ·
+[Substack Article](https://indiasupplychainsignals.substack.com/p/i-found-a-procurement-anomaly-then)
 
 </div>
 
@@ -134,7 +135,7 @@ CIIP_Public_Procurement_Intelligence/
 ├── SECURITY.md
 │
 ├── assets/
-│   ├── social-preview.png
+│   ├── social-preview.jpg
 │   └── study-001-hero.png
 │
 ├── case_study/
