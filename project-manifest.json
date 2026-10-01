@@ -1,0 +1,17 @@
+{
+  "project": "CIIP Public Procurement Intelligence",
+  "study": "Public Procurement Intelligence Study #001",
+  "release": "1.0.0",
+  "release_date": "2026-10-01",
+  "status": "public research release",
+  "conclusion": "Investigation priority identified; commercial leakage not established",
+  "target_population": {
+    "distinct_pos": 42,
+    "transaction_rows": 124,
+    "encumbered_usd": 107285.7,
+    "paid_usd": 99210.11
+  },
+  "method": "Signal -> Identity -> Comparability -> Corroboration -> Reconciliation -> Evidence Gate -> Conclusion",
+  "indicator_library_count": 30,
+  "raw_data_included": false
+}

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "CIIP Public Procurement Intelligence — Study #001"
+message: "If you use this repository or methodology, please cite CIIP Intelligence Advisory and Study #001."
+type: dataset
+authors:
+  - family-names: "Poduri"
+    given-names: "Aditya V Sivaram"
+    affiliation: "CIIP Intelligence Advisory"
+date-released: 2026-10-01
+version: "1.0.0"
+url: "https://github.com/adityvsivaram"
+abstract: "Evidence-governed transaction-level procurement intelligence demonstrated through a San Francisco public procurement investigation."
+keywords:
+  - procurement
+  - procurement-analytics
+  - supply-chain
+  - transaction-intelligence
+  - anomaly-detection
+  - evidence-validation
+  - public-procurement
